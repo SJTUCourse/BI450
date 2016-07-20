@@ -1,10 +1,26 @@
-# BI450
-**Data Acquisition and Signal Processing in Biomedical applications**
-## Introduction
-This course is aimed to study the concept and prototype of [**data acquisition**](https://en.wikipedia.org/wiki/Data_acquisition) and [**signal processing**](https://en.wikipedia.org/wiki/Signal_processing) in biomedical applications (i.e., [**heart rate**](https://en.wikipedia.org/wiki/Heart_rate) measurement and electromyography).
-## Prerequisite
+## BI450
+`Data Acquisition and Signal Processing in Biomedical Applications`
+### Introduction
+This course is aimed to implement [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) of [data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) (DAQ) and [signal processing](https://en.wikipedia.org/wiki/Signal_processing) in biomedical applications (i.e., [heart rate](https://en.wikipedia.org/wiki/Heart_rate) measurement and electromyography).
+### Prerequisite
+* [`Computer programming`](https://en.wikipedia.org/wiki/Computer_programming)
+* `Microsystem or `[`Embedded system`](https://en.wikipedia.org/wiki/Embedded_system)
+* [`Sensor`](https://en.wikipedia.org/wiki/Sensor)
+* [`Signal processing`](https://en.wikipedia.org/wiki/Signal_processing)  
 
-### DAQ hardware
+### Tools
+* Hardwares (optional)
+ * [`USB-4704`](http://www.advantech.com.cn/products/1-2mlkno/usb-4704/mod_4d0800cc-f6fd-402a-9782-24cd0ffdaf42)
+ * [`Analog Discovery`](https://reference.digilentinc.com/reference/instrumentation/analog-discovery/start?redirect=1id=analog_discovery/analog_discovery)
+ * [`Raspberry Pi 3 Model B`](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+ * [`TM4C123G LaunchPad`](http://www.ti.com/tool/ek-tm4c123gxl)
+ * [`Pulse Sensor`](http://pulsesensor.com/)
+ * [`MyoWare Muscle Sensor`](http://www.advancertechnologies.com/p/myoware.html)
+* Softwares
+ * [`Matlab`](https://en.wikipedia.org/wiki/MATLAB)
+ * [`Qt`](http://www.qt.io/)
+ * [`Keil uVersion`](http://www.keil.com/download/product/)
+ * 
 The descriptions of the course in the fall of 2015 *DAQ* hardware and driver, software
 
 ## FAQ
@@ -22,7 +38,9 @@ Q: How can I use the Analog Discovery?
 * [*Project 4*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%204.pdf)
 * [*Final Project*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/final%20project.pdf)
 
-Project:<iframe height=498 width=510 src="http://player.youku.com/embed/XMTM3NDI3NjA4OA==" frameborder=0 allowfullscreen></iframe>
+### Previous Showcase
+* [`YING Chunwei`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
 
-## Contact me
-[JI Xiang](mailto:xiangji@sjtu.edu.cn)
+## Contact
+* Follow **@jaysjtu** on WeChat
+* Email [xiangji@sjtu.edu.cn](mailto:xiangji@sjtu.edu.cn)
