@@ -22,17 +22,18 @@ This course is aimed to implement [proof of concept](https://en.wikipedia.org/wi
  * [`Matlab`](https://en.wikipedia.org/wiki/MATLAB)
  * [`Qt`](http://www.qt.io/)
  * [`Keil uVersion`](http://www.keil.com/download/product/)
- * 
-The descriptions of the course in the fall of 2015 *DAQ* hardware and driver, software
+ * etc
 
-## FAQ
+### FAQ
 Q: How can I use the USB-4704?  
+A: TBD  
+Q: How can I use the Analog Discovery?  
+A: TBD  
 
-Q: How can I use the Analog Discovery?
+### Lectures
+* [*Lecture 0*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%200.ppt)
 
-## Lectures
-
-## Projects
+### Projects
 * [*Project 0*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%200.pdf)
 
 ### Previous Showcase
