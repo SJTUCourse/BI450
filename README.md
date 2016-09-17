@@ -11,6 +11,8 @@ This course is aimed to implement [proof of concept](https://en.wikipedia.org/wi
 ### Tools
 * Hardwares (optional)
  * [`USB-4704`](http://www.advantech.com.cn/products/1-2mlkno/usb-4704/mod_4d0800cc-f6fd-402a-9782-24cd0ffdaf42)
+    * [DAQNavi](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-13L33UP&Doc_Source=Download)
+    * [DAQNavi Driver for USB-4704](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-IM07EN&Doc_Source=Download)
  * [`Analog Discovery`](https://reference.digilentinc.com/reference/instrumentation/analog-discovery/start?redirect=1id=analog_discovery/analog_discovery)
  * [`Raspberry Pi 3 Model B`](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
  * [`TM4C123G LaunchPad`](http://www.ti.com/tool/ek-tm4c123gxl)
@@ -32,11 +34,6 @@ Q: How can I use the Analog Discovery?
 
 ## Projects
 * [*Project 0*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%200.pdf)
-* [*Project 1*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%201.pdf)
-* [*Project 2*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%202.pdf)
-* [*Project 3*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%203.pdf)
-* [*Project 4*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%204.pdf)
-* [*Final Project*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/final%20project.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
