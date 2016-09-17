@@ -33,7 +33,7 @@ Q: How can I use the Analog Discovery?
 ## Lectures
 
 ## Projects
-* [*Project 0*](https://github.com/SJTUCourse/Course_2015_Fall/blob/master/Projects/project%200.pdf)
+* [*Project 0*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%200.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
