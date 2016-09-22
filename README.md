@@ -11,8 +11,8 @@ This course is aimed to implement [proof of concept](https://en.wikipedia.org/wi
 ### Tools
 * Hardwares (optional)
  * [`USB-4704`](http://www.advantech.com.cn/products/1-2mlkno/usb-4704/mod_4d0800cc-f6fd-402a-9782-24cd0ffdaf42)
-    * [DAQNavi](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-13L33UP&Doc_Source=Download)
-    * [DAQNavi Driver for USB-4704](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-IM07EN&Doc_Source=Download)
+    * [`DAQNavi`](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-13L33UP&Doc_Source=Download)
+    * [`DAQNavi Driver for USB-4704`](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-IM07EN&Doc_Source=Download)
  * [`Analog Discovery`](https://reference.digilentinc.com/reference/instrumentation/analog-discovery/start?redirect=1id=analog_discovery/analog_discovery)
  * [`Raspberry Pi 3 Model B`](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
  * [`TM4C123G LaunchPad`](http://www.ti.com/tool/ek-tm4c123gxl)
@@ -32,12 +32,14 @@ A: TBD
 
 ### Lectures
 * [*Lecture 0*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%200.ppt)
+* [*Lecture 1*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%201/Lecture%201.ppt)
 
 ### Projects
 * [*Project 0*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%200.pdf)
+* [*Project 1*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%201.pdf)
 
 ### Previous Showcase
-* [`YING Chunwei`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
+* [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
 
 ## Contact
 * Follow **@jaysjtu** on WeChat
