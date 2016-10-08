@@ -29,14 +29,18 @@ Q: How can I use the USB-4704?
 A: TBD  
 Q: How can I use the Analog Discovery?  
 A: TBD  
+Q: Difference between Instant AI and Buffered AI?
+A: TBD
 
 ### Lectures
-* [*Lecture 0*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%200.ppt)
+* [*Lecture 0*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%200/Lecture%200.ppt)
 * [*Lecture 1*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%201/Lecture%201.ppt)
+* [*Lecture 2*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%202/Lecture%202.ppt)
 
 ### Projects
 * [*Project 0*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%200.pdf)
 * [*Project 1*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%201.pdf)
+* [*Project 2*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%202.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
