@@ -36,6 +36,7 @@ A: TBD
 * [*Lecture 0*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%200/Lecture%200.ppt)
 * [*Lecture 1*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%201/Lecture%201.ppt)
 * [*Lecture 2*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%202/Lecture%202.ppt)
+* [*DIO*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2015%20Fall/Lecture%202%20(DIO%20Introduction).ppt)
 
 ### Projects
 * [*Project 0*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%200.pdf)
