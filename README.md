@@ -43,6 +43,7 @@ A: TBD
 * [*Project 1*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%201.pdf)
 * [*Project 2*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%202.pdf)
 * [*Project 3*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Project%203.pdf)
+* [*Final Project*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2016%20Fall/Final%20Project.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
