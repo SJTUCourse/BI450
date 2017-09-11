@@ -1,0 +1,8 @@
+title: BI450
+description: Data Acquisition and Signal Processing in Biomedical Applications
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
