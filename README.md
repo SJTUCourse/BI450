@@ -34,7 +34,7 @@ A: TBD
 * [*第零讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2017%20Fall/Lecture%200/Lecture%200.ppt)
 
 ### 项目
-* [*项目零*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2017%20Fall/项目%20零.pdf)
+* [*项目零*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2017%20Fall/%E9%A1%B9%E7%9B%AE%E9%9B%B6.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
