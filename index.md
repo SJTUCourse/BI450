@@ -9,12 +9,12 @@ This course is aimed to implement [proof of concept](https://en.wikipedia.org/wi
 * [`Signal processing`](https://en.wikipedia.org/wiki/Signal_processing)  
 
 ### Tools
-* Hardwares
+* Hardwares  
  * [`USB-4704`](http://www.advantech.com.cn/products/1-2mlkno/usb-4704/mod_4d0800cc-f6fd-402a-9782-24cd0ffdaf42)
     * [`DAQNavi`](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-13L33UP&Doc_Source=Download)
     * [`DAQNavi Driver for USB-4704`](http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-IM07EN&Doc_Source=Download)
  * [`Analog Discovery`](https://reference.digilentinc.com/reference/instrumentation/analog-discovery/start?redirect=1id=analog_discovery/analog_discovery)
-* Softwares
+* Softwares  
  * [`Git`](https://guides.github.com/activities/hello-world/)
  * [`GitHub Desktop`](https://desktop.github.com/)
  * [`Qt`](http://www.qt.io/)
