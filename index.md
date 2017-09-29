@@ -38,6 +38,7 @@ A: TBD
 ### 项目
 * [*项目零*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2017%20Fall/%E9%A1%B9%E7%9B%AE%E9%9B%B6.pdf)
 * [*项目一*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2017%20Fall/%E9%A1%B9%E7%9B%AE%E4%B8%80.pdf)
+* [*项目二*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2017%20Fall/项目二.pdf)
 
 
 ### Previous Showcase
