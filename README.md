@@ -33,7 +33,7 @@ A: TBD
 ### 课件
 * [*第零讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2017%20Fall/Lecture%200/Lecture%200.ppt)
 * [*第一讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2017%20Fall/Lecture%201/Lecture%201.ppt)
-
+* [*第二讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2017%20Fall/Lecture%202/Lecture%202.ppt)
 
 ### 项目
 * [*项目零*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2017%20Fall/%E9%A1%B9%E7%9B%AE%E9%9B%B6.pdf)
