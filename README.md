@@ -32,15 +32,10 @@ Q: What is the main difference between Instant AI and Buffered AI?
 A: Sample rate of Buffered AI is much higher than that of Instant AI.  
 
 ### 课件
-* [*第零讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2018%20Fall/Lecture%200.ppt)
-* [*第一讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2018%20Fall/Lecture%201.ppt)
+* [*第零讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2019%20Fall/Lecture%200.ppt)
 
 ### 项目
 * [*项目零*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E9%A1%B9%E7%9B%AE%E4%B8%80.pdf)
-* [*项目一*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E9%A1%B9%E7%9B%AE%E9%9B%B6.pdf)
-* [*项目二*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E9%A1%B9%E7%9B%AE%E4%BA%8C.pdf)
-* [*项目三*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E9%A1%B9%E7%9B%AE%E4%B8%89.pdf)
-* [*最终项目*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E6%9C%80%E7%BB%88%E9%A1%B9%E7%9B%AE.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
