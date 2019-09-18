@@ -36,6 +36,7 @@ A: Sample rate of Buffered AI is much higher than that of Instant AI.
 
 ### 项目
 * [*项目零*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E9%A1%B9%E7%9B%AE%E9%9B%B6.pdf)
+* [*项目一*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E9%A1%B9%E7%9B%AE%E4%B8%80.pdf)
 
 ### Previous Showcase
 * [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
