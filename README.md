@@ -32,7 +32,7 @@ Q: What is the main difference between Instant AI and Buffered AI?
 A: Sample rate of Buffered AI is much higher than that of Instant AI.  
 Q: How to release your application in MATLAB?  
 A: You can find it [here](https://github.com/SJTUCourse/BI450/blob/master/Scripts/Lecture%201/MATLAB/How%20to%20release%20your%20application%20in%20MATLAB.pdf)  
-Q: How can we upload the video?
+Q: How can we upload the video?  
 A: Please upload the video to [Youku](https://youku.com) using user(sjtucourse) and password(sjtubme_2020).
 
 ### 课件
