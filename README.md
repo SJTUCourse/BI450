@@ -47,7 +47,7 @@ A: Please upload the video to [Youku](https://youku.com) using user(sjtucourse) 
 * [*最终项目*](https://github.com/SJTUCourse/BI450/blob/master/Projects/2018%20Fall/%E6%9C%80%E7%BB%88%E9%A1%B9%E7%9B%AE.pdf)
 
 ### 通知
-所有纸质报告提交的截止日期是19周周四(2020年1月2日)
+所有纸质报告提交的截止日期是17周周四(2020年1月2日)
 
 ### Previous Showcase
 * [`YING Chunwei (2015)`](http://v.youku.com/v_show/id_XMTM3NDI3NjA4OA==.html?from=s1.8-1-1.2)
