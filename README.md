@@ -36,7 +36,7 @@ Q: How can we upload the video?
 A: Please upload the video to [Youku](https://youku.com) using user(sjtucourse) and password(sjtubme_2020).
 
 ### 课件
-* [*第零讲*]https://github.com/SJTUCourse/BI450/blob/master/Lectures/2020%20Fall/BI450%20Lecture%200.ppt)
+* [*第零讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2020%20Fall/BI450%20Lecture%200.ppt)
 * [*第一讲*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2020%20Fall/BI450%20Lecture%201.ppt)
 
 ### 项目
